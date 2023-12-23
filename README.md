@@ -22,7 +22,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [Oxford ML school](https://www.oxfordml.school/)|Oxford (UK)| AI for Global Goals & University of Oxford & Cifar |07/06 - 07/09 & 07/11 - 07/14|02/07/2024| £150-£950 |Yes|
 [Machine learning summer school in healthcare and biosciences](https://www.bumblekite.co/summer-school-24)|Zürich (Switzerland)| FOUR |06/30 - 07/06| TBA | TBA | TBA |
 [Tropical Probabilistic AI School](https://tropical.probabilistic.ai/)|Rio de Janeiro (Brazil)| FGV & NTNU |01/29 - 02/02|11/24/2023|~170-570 €|Yes|
-
+[AU Summer University](https://international.au.dk/education/admissions/summeruniversity/course)|Aahrus, Denmark|Aahrus University|Term 1: July 2 - July 19, Term 2: July 22 - August 9|March 15 at 12 noon 2024|300-1800€|free of applying through partner university|
 
 ## Previous Years Summer Schools
 <details>
@@ -59,6 +59,7 @@ Name and Link|Location|Organiser|Dates (MM/DD)|Deadline|Fee|Aid (Travel Grants e
 [NORA Summer School 2023](https://www.nora.ai/research-school/schools/)|Stavangar/Oslo/Tromsø, Norway|Norwegian Artificial Intelligence Research Consortium|06/12 - 06/17|March 2023|0|Yes| Track 1 Deadline March 15
 [Deep Learning and Computer Vision School](https://malga.unige.it/education/schools/dlcv)|Genova, Italy|University of Genoa|06/05 - 06/09|04/23|80€|No|
 [Oxford Machine Learning Summer School](https://www.oxfordml.school/)|Oxford, UK|AI for Global Goals|May, June, July|March 2023||Yes|
+[SDU International Summer School 2023](https://www.sdu.dk/en/summerschool) - Deep Learning|Odense, Denmark|SDU Odense|August|May 2023|300-1000€|No tuition fees for exchange students nominated through relevant exchange agreements|
 
 </details>
 
